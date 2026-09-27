@@ -1,6 +1,11 @@
 # 🤖 AI Research Agent
 
 An autonomous multi-agent research assistant that automatically searches academic papers, extracts key findings, cross-verifies sources, and generates a professional research report — powered entirely by a **local AI model** (via Ollama).
+![Java](https://img.shields.io/badge/Java-25-orange)
+![Maven](https://img.shields.io/badge/Maven-3.9-red)
+![SQLite](https://img.shields.io/badge/SQLite-3.45-blue)
+![Ollama](https://img.shields.io/badge/Ollama-llama3.1-green)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey)
 
 ## Overview
 
@@ -133,16 +138,16 @@ All paper metadata and analyses are also saved to `research.db` (SQLite) for fut
 - [ ] Scheduled/automated recurring reports
 - [ ] Support for stronger cloud-based LLMs as an option
 
-## License & Attribution
 
-This project is licensed under **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.
+## License
 
-**This means:**
-- ✅ You may use, share, and modify this project
-- ✅ You **must give clear credit** to the original author (Nilesh Kumar Mohanty) and link back to this repository
-- ❌ You **may not use this project for commercial purposes** without explicit written permission
+Copyright (c) 2026 Nilesh Kumar Mohanty. All rights reserved.
 
-See the [LICENSE](LICENSE) file for full details. For commercial licensing inquiries, contact [nileshmohanty309@gmail.com].
+**License:** CC BY-NC-ND 4.0
+
+Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International. You may view and share this repository for non-commercial purposes only, with proper attribution, and without creating modified versions. See the [LICENSE](LICENSE) file for full details.
+
+For commercial use or permission to create derivative works, please contact the author.
 
 ## Author
 
