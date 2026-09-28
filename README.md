@@ -41,6 +41,8 @@ Each agent is a focused, single-responsibility Java class that communicates with
 | JSON Parsing      | Jackson                              |
 | Build Tool        | Maven                                |
 
+
+
 ## Project Structure
 
 AIResearchAgent/
@@ -60,6 +62,8 @@ AIResearchAgent/
 ├── reports/ # Generated sample reports
 ├── pom.xml
 └── README.md
+
+
 
 
 ## Setup & Installation
